@@ -1,0 +1,10 @@
+int viatjers
+
+def afegirViatgers (a):
+  viatjers = a
+  
+def borrarViatgers():
+  viatjers = 0
+  
+def consultaViatgers:
+  print(viatjers)
